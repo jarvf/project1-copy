@@ -2,37 +2,40 @@
 
 ## Live Demo
 
-- Include a link to the live version of the project hosted on GitHub Pages.
+* Include a link to the live version of the project hosted on GitHub Pages.
+* https://jarvf.github.io/project1-copy/
 
 ## Project Overview
 
-- Briefly describe the purpose of the project.
-- Explain the story you are telling through the webpage and the key interactive elements.
+* I'm sure we've all been stuck on the train platform late at night trying to get back home, live the situation through this interactive webstory
 
 ## Figma Design
 
-- Provide a link to the Figma design of the webpage.
+* Provide a link to the Figma design of the webpage.
 
 ## Features
 
-- List the key features of the project, including:
-    - **Animations**: Describe the animations you implemented (e.g., CSS transitions, GSAP effects).
-    - **Sound Effects**: Specify where sound effects are used and how they enhance the user experience.
-    - **User-triggered Events**: Explain how users interact with the page (e.g., clicking, scrolling, hovering) and how the page responds.
-    - **Responsive Design**: Explain how the design adapts to different devices (e.g., desktop, tablet, mobile).
+* List the key features of the project, including:
+
+  * **Animations**: Simple fade out animation for cards, confetti animation for win, shake animation for "lose"
+  * **Sound Effects**: clickable ambient sound effects, sound effects on click and win
+  * **User-triggered Events**: Clicking moves through the story
+  * **Responsive Design**: Explain how the design adapts to different devices (e.g., desktop, tablet, mobile).
+  * main column capped at max width of 800, text use clamp to scale between phone and desktop sizes, story cards use flex padding and small min height so doesn't cramp, flex containers in buttons, progress bar scales using JS
 
 ## Technologies Used
 
-- List the technologies and tools used in the project:
-    - **Languages**: HTML, CSS, JavaScript
-    - **Libraries**: (e.g., GSAP for animations)
-    - **Other**: GitHub Pages for hosting, Figma for design
+* List the technologies and tools used in the project:
+
+  * **Languages**: HTML, CSS, JavaScript
+  * **Other**: GitHub Pages for hosting, Figma for design
 
 ## Credits
 
-- List any third-party assets used in the project (e.g., sound effects, images, fonts) and provide proper attribution.
-- Acknowledge any resources, tutorials, or references you used to help complete the project.
+* https://www.youtube.com/watch?v=d1NjkYjRn34
+  https://www.youtube.com/watch?v=HgUCxmzMjNk
+  https://www.youtube.com/watch?v=z39WJ945muM
 
 ## Future Enhancements
 
-- List any features you would’ve liked to add if given more time
+* Images and per area sounds
