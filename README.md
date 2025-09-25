@@ -4,6 +4,7 @@
 
 * Include a link to the live version of the project hosted on GitHub Pages.
 * https://jarvf.github.io/project1-copy/
+* https://docs.google.com/presentation/d/1uiCZDnd-biS7JNSJCZmvnsfEDWJM3\_eYlGHS6PnTx70/edit?slide=id.g54dda1946d\_6\_332#slide=id.g54dda1946d\_6\_332
 
 ## Project Overview
 
