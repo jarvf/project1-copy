@@ -11,7 +11,8 @@
 
 ## Figma Design
 
-* Provide a link to the Figma design of the webpage.
+* Provide a link to the Figma design of the webpage. https://imgur.com/a/ve5H1EW
+* https://www.figma.com/design/f0uhdscR4hDFXjcUQvS86F/Project-1?node-id=0-1\&p=f\&t=ah5URqMtdK1Wp0MP-0
 
 ## Features
 
